@@ -1,0 +1,3 @@
+git init 
+git remote add origin git@github.com:rajasekhar82/batch2.git
+git remote -v
